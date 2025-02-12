@@ -1,1 +1,3 @@
 # project5_spatial_transcriptomics
+
+In this notebook we analyse spatial transcriptomics data with [scanpy](https://scanpy.readthedocs.io/en/stable/) and [squidpy](https://squidpy.readthedocs.io/en/stable/). The example merfish dataset (slices from mouse hypothalamic preoptic region) is from [this article](https://www.science.org/doi/10.1126/science.aau5324) and available [through Python](https://squidpy.readthedocs.io/en/stable/api/squidpy.datasets.merfish.html#squidpy.datasets.mer). We largely follow the steps from these [merfish](https://squidpy.readthedocs.io/en/stable/notebooks/tutorials/tutorial_merfish.html) and [vizgen](https://squidpy.readthedocs.io/en/stable/notebooks/tutorials/tutorial_vizgen.html) tutorials.
